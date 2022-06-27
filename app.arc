@@ -35,5 +35,5 @@ decks
 	scopeID *String
 	id *String
 	salt **Number
-	commanders
+	commanders *String
 	ttl TTL
